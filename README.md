@@ -1,0 +1,2 @@
+# OsuFishNew
+FishNew Osu skin
