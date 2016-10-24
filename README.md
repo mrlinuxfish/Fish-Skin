@@ -1,5 +1,4 @@
 # OsuFishNew
-================================
 
 This is my new skin project where I will be making all osu skin files from scratch.
 
