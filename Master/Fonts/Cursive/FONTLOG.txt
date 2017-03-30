@@ -1,0 +1,103 @@
+This is the FONTLOG file for the 'Cursive' ('CursiveSans', 'Cursive Sans',
+'CursiveSerif', 'Cursive Serif') Font.
+
+
+This file provides detailed information on the 'Cursive' Font Software.
+This information should be distributed along with the 'Cursive' font
+and any derivative works.
+
+
+Basic Font Information
+
+'Cursive' Font is a Unicode typeface family that supports all languages that
+use the Latin script and its variants, and could be expanded to support other
+scripts.
+
+'Cursive' Font you'll find at: http://openfontlibrary.org.
+
+'Cursive' Font is created with FontForge.
+
+
+More specifically, this release supports the following Unicode ranges:
+
+ - Controls and Basic Latin - 0000-007F (all)
+
+ - Latin 1 Supplement And Controls - 00A0-00FF (all)
+
+ - Latin Extended A - 0100-017F (all)
+
+ - Latin Extended B - 0191, 0192, 01E4, 01E5, 01FC-01FF, 0218-021B, 0237
+
+ - Greek and Coptic - 0394, 03A0, 03A3, 03A9, 03BC, 03C0
+
+ - Latin Extended Additional - 1E02, 1E03, 1E0A, 1E0B, 1E1E, 1E1F, 1E40, 1E41,
+                               1E56, 1E57, 1E60, 1E61, 1E6A, 1E6B, 1E80-1E85,
+                               1EF2, 1EF3
+
+ - General Punctuation - 2010-2015, 2017-2027, 2030, 2032-2037,
+                         2039, 203A, 2043, 2044
+
+ - Currency Symbols - 20AC
+
+ - Letterlike Symbols - 2105, 2113, 2122, 2126, 212E
+
+ - Mathematical Operators - 2202, 2206, 2207, 220F, 2211, 2212, 2215, 2217-221B,
+                            221E, 2248, 2260, 2261, 2264, 2265
+
+ - Geometric Shapes - 25CA
+
+
+
+This release contains:
+
+ - CursiveSans.ttf
+ - CursiveSerif.ttf
+ - CursiveSans.sfd
+ - CursiveSerif.sfd
+ - FONTLOG.txt
+ - SIL - OpenFont License.txt - official license text
+ - CursiveSans.pdf - demo
+ - CursiveSerif.pdf - demo
+
+
+ChangeLog
+
+30 September 2011 wmk69 (wmk69@o2.pl) Cursive Version 2.000
+- all glyphs redesigned - I "cleaned" all glyphs, removed unnecessary points
+  and improved shapes of all glyphs.
+- added glyphs: 0191, 01FA-01FF, 022C, 022D, 0237, 1E02, 1E03, 1E0A, 1E0B, 1E1E,
+  1E1F, 1E40, 1E41, 1E56, 1E57, 1E60, 1E61, 1E6A, 1E6B, 1E80-1E85, 1EF2, 1EF3
+- changed names of fonts: 'CursiveSerif' - 'Cursive Serif',
+                          'CursiveSans' - 'Cursive Sans'
+
+19 May 2011 wmk69 (wmk69@o2.pl) CursiveSerif Version 1.02
+- added Kerning by Classes Table (kern)
+- fixed some bugs with bearings
+- changed PS Private Dictionary
+- added Grid Fitting Table (gasp) version 1
+
+03 April 2011 wmk69 (wmk69@o2.pl) CursiveSerif Version 1.01
+- fixed bugs with kerning
+
+15 March 2011 wmk69 (wmk69@o2.pl) CursiveSerif Version 1.0
+- Initial release
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D).
+
+
+History
+
+This is another of my old fonts used to inscriptions on stone.
+I created the CursiveSerif font about 14-15 years ago (like other fonts - when
+I started doing the inscriptions on stone professionally).
+Initially the font was only serif. I decided to create two versions
+ - Sans and Serif.
+CursiveSerif is the first part of two fonts family. The second part is
+CursiveSans.
+
+15 March 2011 wmk69 (wmk69@o2.pl)
+
