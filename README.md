@@ -9,6 +9,7 @@ If you find this skin project helpful, feel free to use any of the assets in you
 - Update score graphics
 - Acquire good hitsounds
 - Update yellow color so it is not too similar to green
+- New mod icons
 
 ## Changelog: ##
 - In process of making core gameplay elements
