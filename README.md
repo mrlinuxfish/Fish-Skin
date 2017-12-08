@@ -6,11 +6,6 @@ If you find this skin project helpful, feel free to use any of the assets in you
 
 ## TODO ##
 - Update spinner graphics
-- Update score graphics
+- Update score graphics (numbers)
 - Acquire good hitsounds
 - Update yellow color so it is not too similar to green
-- New mod icons
-
-## Changelog: ##
-- In process of making core gameplay elements
-- Added a lot of new assets
